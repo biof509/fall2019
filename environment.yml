@@ -12,3 +12,5 @@ dependencies:
   - pandas
   - tensorflow
   - keras
+  - pip:
+    - jupyterlab-git
